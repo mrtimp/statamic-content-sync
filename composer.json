@@ -45,5 +45,11 @@
   "support": {
     "issues": "https://github.com/mrtimp/statamic-content-sync/issues",
     "source": "https://github.com/mrtimp/statamic-content-sync"
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/mrtimp/statamic-content-sync"
+    }
+  ]
 }
