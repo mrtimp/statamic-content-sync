@@ -21,7 +21,7 @@ Export/import **Collections, Navigation, Taxonomies, Assets, Globals** with a St
 - **Git-style diff**: Side-by-side preview of current vs incoming.
 - **Granular decisions**: Choose per item to keep current or accept incoming.
 - **CLI included**: Mirror UI flows via Artisan commands.
-- **Statamic v5 / Laravel 10–11 / PHP ≥ 8.1**.
+- **Statamic v6 / Laravel 12–13 / PHP ≥ 8.3**.
 
 > Roadmap: field-level merge decisions, queueable commits for large imports, binary asset copy helpers, rollback snapshots.
 
