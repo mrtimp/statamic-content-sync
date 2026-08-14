@@ -1,5 +1,5 @@
 {
-  "name": "emran-alhaddad/statamic-content-sync",
+  "name": "mrtimp/statamic-content-sync",
   "description": "Export/import Statamic Entries, Navigation, Taxonomies, Assets, Globals with a CP UI and diff preview.",
   "type": "statamic-addon",
   "license": "MIT",
@@ -32,7 +32,7 @@
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "homepage": "https://github.com/emran-alhaddad/statamic-content-sync",
+  "homepage": "https://github.com/mrtimp/statamic-content-sync",
   "keywords": [
     "statamic",
     "export",
@@ -43,7 +43,7 @@
     "sync"
   ],
   "support": {
-    "issues": "https://github.com/emran-alhaddad/statamic-content-sync/issues",
-    "source": "https://github.com/emran-alhaddad/statamic-content-sync"
+    "issues": "https://github.com/mrtimp/statamic-content-sync/issues",
+    "source": "https://github.com/mrtimp/statamic-content-sync"
   }
 }
